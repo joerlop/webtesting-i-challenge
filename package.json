@@ -1,0 +1,14 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joerlop/webtesting-i-challenge.git",
+  "author": "joerlop <jj.erlich155@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest --watch --verbose"
+  }
+}
